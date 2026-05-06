@@ -75,7 +75,7 @@ Kernel module analysis, syscall path tracing, privilege escalation research, cra
 
 | Project | What it does | Stack |
 |---|---|---|
-| **Saarathi** | [→ see repo] | - |
+| **Saarathi** | [→ see repo] | Google Cloud & Firebase, Dart, Flutter, Gemini Flash |
 | **KERNEL_DEBUGGING** | Linux kernel module research - syscall tracing, privilege escalation analysis. MeitY recognized. | C, Bash, Linux |
 | **Secure Student-Admin Portal** | Defense-in-depth REST API with JWT auth, rate limiting, SQL injection prevention, OWASP Top 10 coverage | Node.js, Docker, MongoDB |
 | **Cloud-CRUD1** | Task manager deployed on AWS EC2 with S3 + CloudFront CDN | Node.js, AWS |
