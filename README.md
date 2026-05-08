@@ -106,3 +106,7 @@ Kernel module analysis, syscall path tracing, privilege escalation research, cra
   &nbsp;
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=murali-33011&layout=compact&theme=dark&hide_border=true" height="150"/>
 </p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=murali-33011&style=flat-square&color=1f1f1f" />
+</p>
