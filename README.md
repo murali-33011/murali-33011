@@ -1,7 +1,7 @@
 <h1 align="center">Muralikrishnan N</h1>
 
 <p align="center">
-  Sophomore Year B.Tech IT &nbsp;·&nbsp; SASTRA Deemed University &nbsp;·&nbsp;
+  Sophomore Year B.Tech IT &nbsp;·&nbsp; SASTRA Deemed University &nbsp;&nbsp;
 </p>
 
 <p align="center">
