@@ -121,23 +121,4 @@ Minor research project, "Exploring Kernel Debuggers: Analyzing Core Level Proces
 | **Chennai House Price Prediction** | Linear regression model on real estate data, R² validated via cross-validation | Python, Scikit-learn, Pandas |
 
 ---
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murali-33011&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murali-33011&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=murali-33011&theme=dark&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=murali-33011&theme=dark&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
-</p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=murali-33011&style=flat-square&color=1f1f1f" />
-</p>
+<p align="center">  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=murali-33011&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="150"/>  &nbsp;  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=murali-33011&layout=compact&theme=dark&hide_border=true" height="150"/></p> <p align="right">  <img src="https://komarev.com/ghpvc/?username=murali-33011&style=flat-square&color=1f1f1f" /></p>
