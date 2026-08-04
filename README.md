@@ -11,34 +11,34 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MeitY_Recognized-Kernel_Research-2b2b2b?style=flat"/>
-  <img src="https://img.shields.io/badge/1st_Place-Amazon_Daksh_AI_Hackathon_2026-2b2b2b?style=flat"/>
-  <img src="https://img.shields.io/badge/CTFtime-Rank_%236_India-2b2b2b?style=flat"/>
+  <img src="https://img.shields.io/badge/MeitY_Recognized-Kernel_Research-0A66C2?style=flat"/>
+  <img src="https://img.shields.io/badge/1st_Place-Amazon_Daksh_AI_Hackathon_2026-FF9900?style=flat"/>
+  <img src="https://img.shields.io/badge/CTFtime-Rank_%236_India-DC2626?style=flat"/>
 </p>
 
 ---
 
 ### About
 
-Security research intern at MNIT Jaipur, where I reverse-engineered 20+ Linux kernel modules, traced syscall execution paths, and identified privilege-transition and scheduling issues through crash-dump forensics — work recognized by the Ministry of Electronics and Information Technology (MeitY).
+Security research intern at MNIT Jaipur, where I reverse-engineered 20+ Linux kernel modules, traced syscall execution paths, and identified privilege-transition and scheduling issues through crash-dump forensics work recognized by the Ministry of Electronics and Information Technology (MeitY).
 
 Placed 1st at the Amazon Daksh AI Hackathon 2026 for an on-device LLM system that runs offline across 8+ languages with zero cloud dependency post-deployment.
 
-I build at the intersection of systems security, cloud infrastructure, and backend engineering — and I like taking projects from a rough idea to something actually deployed and hardened, not just a local demo.
+I build at the intersection of systems security, cloud infrastructure, and backend engineering and I like taking projects from a rough idea to something actually deployed and hardened, not just a local demo.
 
 ---
 
 ### Experience & Recognition
 
-**Security Research Intern — MNIT Jaipur** (MeitY recognized)
+**Security Research Intern - MNIT Jaipur** (MeitY recognized)
 Kernel module analysis, syscall path tracing, privilege-escalation research, crash-dump forensics. Authored root cause reports that informed fixes reducing crash incidents by 25%.
 
-**1st Place — Amazon Daksh AI Hackathon 2026**
+**1st Place - Amazon Daksh AI Hackathon 2026**
 On-device LLM pipeline for multilingual voice accessibility. Zero runtime cloud cost, full data privacy.
 
-**Ethical Hacker, Team 1nf1n1ty** — Ranked #6 in India on CTFtime.org.
+**Ethical Hacker, Team 1nf1n1ty** - Ranked #6 in India on CTFtime.org.
 
-**Google Cybersecurity Professional Certificate** — Coursera, 2025.
+**Google Cybersecurity Professional Certificate** - Coursera, 2025.
 
 ---
 
@@ -61,10 +61,10 @@ On-device LLM pipeline for multilingual voice accessibility. Zero runtime cloud 
 ### Projects
 
 <details>
-<summary><b>NEXUS — Digital Threat Intelligence Platform</b> &nbsp;|&nbsp; Next.js, FastAPI, LangGraph, Neo4j, Qdrant, Supabase &nbsp;|&nbsp; <a href="https://github.com/murali-33011/nexus">Repo</a> &nbsp;|&nbsp; <a href="https://nexus-psi-olive-10.vercel.app/">Live Demo</a></summary>
+<summary><b>NEXUS-Digital Threat Intelligence Platform</b> &nbsp;|&nbsp; Next.js, FastAPI, LangGraph, Neo4j, Qdrant, Supabase &nbsp;|&nbsp; <a href="https://github.com/murali-33011/nexus">Repo</a> &nbsp;|&nbsp; <a href="https://nexus-psi-olive-10.vercel.app/">Live Demo</a></summary>
 <br>
 
-AI-driven fraud investigation platform that tracks, correlates, and builds court-admissible dossiers against organized fraud rings — digital arrest scams, counterfeit currency, phishing campaigns — threatening Indian citizens. Full-stack, three role-based portals (Citizen, Officer, Analyst).
+AI-driven fraud investigation platform that tracks, correlates, and builds court-admissible dossiers against organized fraud rings-digital arrest scams, counterfeit currency, phishing campaigns-threatening Indian citizens. Full-stack, three role-based portals (Citizen, Officer, Analyst).
 
 - LangGraph multi-agent pipeline classifying scam complaints against a custom MITRE ATT&CK-inspired fraud TTP library, mapping kill-chain stages and generating explainable risk scores
 - Neo4j relationship graph linking complaints, phone numbers, mule accounts, and suspected actors for fraud-ring visualization and cross-case correlation
@@ -75,10 +75,10 @@ AI-driven fraud investigation platform that tracks, correlates, and builds court
 </details>
 
 <details>
-<summary><b>PREACT — Police Response & Emergency Analytics Command Tool</b> &nbsp;|&nbsp; Flutter, Supabase, Prophet, XGBoost, OR-Tools &nbsp;|&nbsp; <a href="https://github.com/Rishab993/PREACT">Repo</a></summary>
+<summary><b>PREACT-Police Response & Emergency Analytics Command Tool</b> &nbsp;|&nbsp; Flutter, Supabase, Prophet, XGBoost, OR-Tools &nbsp;|&nbsp; <a href="https://github.com/Rishab993/PREACT">Repo</a></summary>
 <br>
 
-Dual-role mobile and web platform built for the Flipkart GRiD 7.0 hackathon, giving Bengaluru Traffic Police 72-hour predictive congestion forecasting, deployment optimization, and post-event learning, alongside a citizen reporting portal. Main contributor — owned the backend.
+Dual-role mobile and web platform built for the Flipkart GRiD 7.0 hackathon, giving Bengaluru Traffic Police 72-hour predictive congestion forecasting, deployment optimization, and post-event learning, alongside a citizen reporting portal. Main contributor-owned the backend.
 
 - Built the REST API layer (citizen, intelligence, and operations endpoints) backing both the citizen and police command-center clients
 - Integrated the predictive stack: Prophet for 72-hour zone-level severity forecasting, XGBoost for severity confidence scoring, and OR-Tools for officer deployment optimization
@@ -88,22 +88,22 @@ Dual-role mobile and web platform built for the Flipkart GRiD 7.0 hackathon, giv
 </details>
 
 <details>
-<summary><b>VaaniMitra — Offline Speech to Action Accessibility System</b> &nbsp;|&nbsp; Qwen 0.5B, AWS SageMaker, GGUF &nbsp;|&nbsp; 1st Place, Amazon Daksh AI Hackathon 2026</summary>
+<summary><b>VaaniMitra-Offline Speech to Action Accessibility System</b> &nbsp;|&nbsp; Qwen 0.5B, AWS SageMaker, GGUF &nbsp;|&nbsp; 1st Place, Amazon Daksh AI Hackathon 2026</summary>
 <br>
 
 On-device speech-to-intent-to-speech pipeline for hands-free smartphone control, built for elderly, disabled, and low-literacy users across 8+ languages.
 
-- Fine-tuned and quantized a Qwen 0.5B model to GGUF for fully offline inference — zero data egress, zero runtime cloud cost
+- Fine-tuned and quantized a Qwen 0.5B model to GGUF for fully offline inference-zero data egress, zero runtime cloud cost
 - Owned the ML pipeline end to end: fine-tuning and export via AWS SageMaker
 - Built an S3/CloudFront distribution pipeline that cut model delivery latency by 30%, validated under simulated high-concurrency load
 
 </details>
 
 <details>
-<summary><b>Kernel Debugging — Linux Kernel Module Research</b> &nbsp;|&nbsp; C, Bash, Linux &nbsp;|&nbsp; MeitY Recognized</summary>
+<summary><b>Kernel Debugging-Linux Kernel Module Research</b> &nbsp;|&nbsp; C, Bash, Linux &nbsp;|&nbsp; MeitY Recognized</summary>
 <br>
 
-Minor research project, "Exploring Kernel Debuggers: Analyzing Core Level Process Behaviors" — the work behind the MNIT Jaipur internship, later recognized by MeitY.
+Minor research project, "Exploring Kernel Debuggers: Analyzing Core Level Process Behaviors"-the work behind the MNIT Jaipur internship, later recognized by MeitY.
 
 - Reverse-engineered 20+ Linux kernel modules and traced 50+ system call execution paths across 3 core subsystems
 - Identified scheduling inefficiencies and privilege-transition issues affecting system performance
